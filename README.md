@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj1408&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj1408" /> </p>
 
-- 🔭 I’m currently working on [Eduvista](eduvista-topaz.vercel.app)
+- 🔭 I’m currently working on [Astute Management solution] 
 
-- 💬 Ask me about **react js, html,css javascript**
+- 💬 Ask me about **React js, Html,Css Javascript**
 
 - 📫 How to reach me **rishirajd.2002@gmail.com**
 
